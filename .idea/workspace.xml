@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af052743-8dc5-4024-acb1-5210309754a5" name="Changes" comment="First Commit">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/corso_epicode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/it/epicode/week1/day1/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/it/epicode/week1/day1/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/it/epicode/week1/day1/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/it/epicode/week1/day1/Main3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/it/epicode/week1/day1/Main4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/it/epicode/week1/day1/Main4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +41,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main2.executor": "Run",
     "Application.PrimaClasse.executor": "Run",
     "Application.ProvaArray.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -80,7 +80,23 @@
       <option name="project" value="LOCAL" />
       <updated>1704725603462</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First Commit">
+      <option name="closed" value="true" />
+      <created>1704726156448</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704726156448</updated>
+    </task>
+    <task id="LOCAL-00003" summary="First Commit">
+      <option name="closed" value="true" />
+      <created>1704727763427</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1704727763427</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

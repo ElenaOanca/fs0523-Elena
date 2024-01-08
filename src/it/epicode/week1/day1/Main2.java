@@ -1,4 +1,4 @@
-package u4.d1;
+package it.epicode.week1.day1;
 
 import java.util.Arrays;
 
@@ -12,7 +12,7 @@ public class Main2 {
 		
 		System.out.println(concat("Il numero e:", 6));
 		
-		String[] arr = insertIntoArray(new String[]{"A", "B", "C", "D", "E"}, "aaaaa");
+		String[] arr = insertIntoArray(new String[]{"A", "B", "C", "D", "E"}, "");
 		
 		System.out.println(Arrays.toString(arr));
 		
