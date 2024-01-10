@@ -16,6 +16,20 @@ public class CartaSim {
         this.listaChiamate = listaChiamate;
     }
 
+    private class Chiamata {
+
+        private String numeroChiamato;
+
+        private int durata;
+
+        public Chiamata(String numeroChiamato, int durata) {
+            this.numeroChiamato = numeroChiamato;
+            this.durata = durata;
+        }
+
+
+    }
+
     public String getNumeroTelefono() {
         return numeroTelefono;
     }
@@ -49,7 +63,7 @@ public class CartaSim {
 
     public void stampaChiamate() {
         for (Chiamata chiamata : listaChiamate) {
-            System.out.println(chiamata);
+            System.out.println( "La chiamata effettuate è: " + chiamata);
         }
     }
 
@@ -64,17 +78,9 @@ public class CartaSim {
         cartaSim.stampaChiamate();
     }
 
-    private class Chiamata {
-
-        private String numeroChiamato;
-
-        private int durata;
-
-        public Chiamata(String numeroChiamato, int durata) {
-            this.numeroChiamato = numeroChiamato;
-            this.durata = durata;
-        }
 
 
-    }
+
+
+
 }
