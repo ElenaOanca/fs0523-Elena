@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af052743-8dc5-4024-acb1-5210309754a5" name="Changes" comment="First Commit">
+    <list default="true" id="af052743-8dc5-4024-acb1-5210309754a5" name="Changes" comment="esercizio day5 progetto">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/it/epicode/week1/day1/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/it/epicode/week1/day1/Main2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/it/epicode/week1/day1/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/it/epicode/week1/day1/Main3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/it/epicode/week1/day1/Main4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/it/epicode/week1/day1/Main4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -30,9 +29,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2afR578DOhF5wqeyYFQcF5DmdFA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -41,14 +40,34 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CartaSim.executor": "Run",
+    "Application.ContrattoMobile.executor": "Run",
+    "Application.ContrattoTelefonico.executor": "Run",
+    "Application.ControlloConsumoAcqua.executor": "Run",
+    "Application.DoWhile.executor": "Run",
+    "Application.Ecommerce.executor": "Run",
+    "Application.LettoreMultimediale.executor": "Run",
+    "Application.MaggioreNumero.executor": "Run",
     "Application.Main2.executor": "Run",
+    "Application.Media.executor": "Run",
+    "Application.Museo.executor": "Run",
+    "Application.PariDispari.executor": "Run",
     "Application.PrimaClasse.executor": "Run",
+    "Application.ProvaAnnoBisestileDaInput.executor": "Run",
     "Application.ProvaArray.executor": "Run",
+    "Application.Rettangolo.executor": "Run",
+    "Application.Sconto.executor": "Run",
+    "Application.StampaLettere.executor": "Run",
+    "Application.UsaAutomobile.executor": "Run",
+    "Application.UsaContrattoTelefonico.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "openjdk-21",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/elena/IdeaProjects/corso_epicode/src/Main.java"
+    "onboarding.tips.debug.path": "C:/Users/elena/IdeaProjects/corso_epicode/ripetizioni/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -96,12 +115,64 @@
       <option name="project" value="LOCAL" />
       <updated>1704727763427</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="esercizio day1">
+      <option name="closed" value="true" />
+      <created>1704728113399</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1704728113399</updated>
+    </task>
+    <task id="LOCAL-00005" summary="esercizio day2">
+      <option name="closed" value="true" />
+      <created>1704806582011</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1704806582011</updated>
+    </task>
+    <task id="LOCAL-00006" summary="esercizio day2">
+      <option name="closed" value="true" />
+      <created>1704807414129</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1704807414129</updated>
+    </task>
+    <task id="LOCAL-00007" summary="esercizio day3">
+      <option name="closed" value="true" />
+      <created>1704900948734</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1704900948734</updated>
+    </task>
+    <task id="LOCAL-00008" summary="esercizio day3">
+      <option name="closed" value="true" />
+      <created>1704905126872</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1704905126872</updated>
+    </task>
+    <task id="LOCAL-00009" summary="esercizio day5 progetto">
+      <option name="closed" value="true" />
+      <created>1705068299807</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1705068299807</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
+    <MESSAGE value="esercizio day1" />
+    <MESSAGE value="esercizio day2" />
+    <MESSAGE value="esercizio day3" />
+    <MESSAGE value="esercizio day5 progetto" />
+    <option name="LAST_COMMIT_MESSAGE" value="esercizio day5 progetto" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -110,6 +181,16 @@
           <url>file://$PROJECT_DIR$/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/it.ripetizioni/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ripetizioni/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
